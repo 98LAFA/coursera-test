@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repository
+Coursera Repository for JHU HTML/CSS/JS Cetificate!
